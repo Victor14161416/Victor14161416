@@ -8,5 +8,4 @@ Here are some ideas to get you started:
 - Estoy estudiando programación en python y GdScript para desarrollo de videojuegos en Godot Engine.
 
 - Me interesa la programacion orientada a objetos, la inteligencia artificial, y el desarrollo de videojuegos.
-
--
+¡-->
